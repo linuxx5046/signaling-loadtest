@@ -1,0 +1,9 @@
+yo 
+./target/release/signaling-loadtest --url ws://156.67.102.163:18080 --pairs 1500 --ramp-up-secs 200 --duration-secs 120 --output-csv fuente1_local.csv
+
+otro 
+
+./target/release/signaling-loadtest --url ws://156.67.102.163:18080 --pairs 1500 --ramp-up-secs 200 --duration-secs 120 --output-csv fuente2_otrovps.csv
+
+
+otros .......bajar aun mas ........
